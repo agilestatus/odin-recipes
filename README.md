@@ -1,1 +1,1 @@
-# odin-recipes
+This is a list of recipes. It is an assignment that is part of the Odin Project.
